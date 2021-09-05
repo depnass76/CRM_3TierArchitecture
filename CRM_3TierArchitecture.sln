@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_3TierArchitecture", "CRM_3TierArchitecture.csproj", "{C6A47EF6-B679-4E48-B864-FFA182F06EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A47EF6-B679-4E48-B864-FFA182F06EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A47EF6-B679-4E48-B864-FFA182F06EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A47EF6-B679-4E48-B864-FFA182F06EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A47EF6-B679-4E48-B864-FFA182F06EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A027C44-AE57-4A51-B423-7BF084551072}
+	EndGlobalSection
+EndGlobal
